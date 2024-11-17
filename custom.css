@@ -6,7 +6,7 @@
     opacity: .3; 
     z-index: -1;
     background-color:rgba(0, 0, 0); ;
-    background: url("{{ url_for('static', filename='images/galaxy.jpg')}}");
+    background: url("https://memorybean.com/_data/i/upload/2024/11/05/20241105221407-587dc5ff-me.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     }
@@ -17,8 +17,6 @@
     opacity: .7; 
     z-index: 1000;
     background-color:rgba(0, 0, 0); ;
-    /* background: url("{{ url_for('static', filename='images/galaxy.jpg')}}"); */
-    /* background-repeat: no-repeat; */
     background-size: cover;
     }
   .bd-placeholder-img {
