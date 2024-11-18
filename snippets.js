@@ -101,3 +101,6 @@ $(document).ready(function() { $("#fadeone").fadeIn(500) });
     })
   })()
   
+
+
+document.body.innerHTML += "<div class="bgImg"></div>";
